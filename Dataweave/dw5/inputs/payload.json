@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "abc",
+    "id": 123,
+    "salary": 70000,
+    "mobile": 12345678
+  },
+  {
+    "Name": "def",
+    "id": 123,
+    "salary": 70000,
+    "mobile": 12345678
+  },
+  {
+    "Name": "ghi",
+    "id": 123,
+    "salary": 70000,
+    "mobile": 12345678
+  }
+]
