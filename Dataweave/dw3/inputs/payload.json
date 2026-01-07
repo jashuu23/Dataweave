@@ -1,0 +1,39 @@
+{
+  "employeeDetails": {
+    "apicentrics": [
+      {
+        "Name": "Varun",
+        "id": 123,
+        "salary": 70000,
+        "mobile": 12345678,
+        "city": {
+          "Street": "4/14",
+          "area": "Brodipet",
+          "Place": "gnt"
+        }
+      },
+      {
+        "Name": "Satwik",
+        "id": 123,
+        "salary": 70000,
+        "mobile": 12345678,
+        "city": {
+          "Street": "4/14",
+          "area": "Brodipet",
+          "Place": "vjy"
+        }
+      },
+      {
+        "Name": "jeevan",
+        "id": 123,
+        "salary": 70000,
+        "mobile": 12345678,
+        "city": {
+          "Street": "4/14",
+          "area": "Brodipet",
+          "Place": "gnt"
+        }
+      }
+    ]
+  }
+}
