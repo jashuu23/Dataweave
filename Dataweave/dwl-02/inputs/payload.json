@@ -1,0 +1,32 @@
+{
+  "company": {
+    "departments": [
+      {
+        "name": "Engineering",
+        "employees": [
+          {
+            "name": "Alice",
+            "salary": 60000
+          },
+          {
+            "name": "Bob",
+            "salary": 45000
+          }
+        ]
+      },
+      {
+        "name": "Sales",
+        "employees": [
+          {
+            "name": "Charlie",
+            "salary": 55000
+          },
+          {
+            "name": "Diana",
+            "salary": 40000
+          }
+        ]
+      }
+    ]
+  }
+}
